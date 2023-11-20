@@ -7,10 +7,6 @@ namespace setts
     const auto moneyset = 0x1EFA5D39250;
 }
 
-DWORD AddMoney();
-DWORD RemoveMoney();
-void case1();
-void case2();
 const auto mem = Memory("amtrucks.exe");
 
 
