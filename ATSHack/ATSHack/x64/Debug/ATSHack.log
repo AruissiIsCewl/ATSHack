@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Ray\source\repos\ATSHack\ATSHack\mem.h(30,62): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Users\Ray\source\repos\ATSHack\ATSHack\mem.h(53,71): warning C4244: 'argument': conversion from 'const uintptr_t' to 'DWORD', possible loss of data
+  ATSHack.vcxproj -> C:\Users\Ray\source\repos\ATSHack\x64\Debug\ATSHack.exe

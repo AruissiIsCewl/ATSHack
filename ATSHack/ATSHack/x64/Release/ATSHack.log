@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Ray\source\repos\ATSHack\ATSHack\mem.h(30,62): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Users\Ray\source\repos\ATSHack\ATSHack\mem.h(53,71): warning C4244: 'argument': conversion from 'const uintptr_t' to 'DWORD', possible loss of data
+  Generating code
+  1 of 23 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ATSHack.vcxproj -> C:\Users\Ray\source\repos\ATSHack\x64\Release\ATSHack.exe
